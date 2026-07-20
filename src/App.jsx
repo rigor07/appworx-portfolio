@@ -201,7 +201,7 @@ export default function App() {
           </div>
           <div className="foot-bottom">
             <span>© 2026 Rishi Gorai</span>
-            <span>appworx.ai · designed &amp; built in React</span>
+            <span>rishigorai.com · designed &amp; built in React</span>
           </div>
         </div>
       </footer>
